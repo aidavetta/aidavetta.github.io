@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon / flag / mx</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.86989744,0.205128205 C1.73225641,0.205128205 0,1.94115859 0,4.08345679 L0,4.08345679 L0,19.3267996 C0,21.4690978 1.73225641,23.2051282 3.86989744,23.2051282 L3.86989744,23.2051282 L30.1301026,23.2051282 C32.2668718,23.2051282 34,21.4690978 34,19.3267996 L34,19.3267996 L34,4.08345679 C34,1.94115859 32.2668718,0.205128205 30.1301026,0.205128205 L30.1301026,0.205128205 L3.86989744,0.205128205 Z" id="path-1"></path>
+    </defs>
+    <g id="icon-/-flag-/-mx" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#FFFFFF" opacity="0" x="0" y="0" width="40" height="40"></rect>
+        <g id="Group-6" transform="translate(3.000000, 8.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <g id="Mexico" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 0.205128)">
+                    <polygon id="Fill-1" fill="#02714F" points="0 24 11 24 11 0 0 0"></polygon>
+                    <polygon id="Fill-3" fill="#D8122C" points="23 24 34 24 34 0 23 0"></polygon>
+                    <polygon id="Fill-4" fill="#FEFDFD" points="11 24 23 24 23 0 11 0"></polygon>
+                    <path d="M20,11.5 C20,13.4324258 18.4324258,15 16.5,15 C14.5667157,15 13,13.4324258 13,11.5 C13,9.56671572 14.5667157,8 16.5,8 C18.4324258,8 20,9.56671572 20,11.5" id="Fill-5" fill="#6C4228"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
